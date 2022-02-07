@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/physik_rechner_frontend/static/css/main.04179b6f.css",
-    "main.js": "/physik_rechner_frontend/static/js/main.77d35cb1.js",
+    "main.js": "/physik_rechner_frontend/static/js/main.c1b084d7.js",
     "static/js/787.cda612ba.chunk.js": "/physik_rechner_frontend/static/js/787.cda612ba.chunk.js",
     "static/media/logo.svg": "/physik_rechner_frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/physik_rechner_frontend/index.html",
     "main.04179b6f.css.map": "/physik_rechner_frontend/static/css/main.04179b6f.css.map",
-    "main.77d35cb1.js.map": "/physik_rechner_frontend/static/js/main.77d35cb1.js.map",
+    "main.c1b084d7.js.map": "/physik_rechner_frontend/static/js/main.c1b084d7.js.map",
     "787.cda612ba.chunk.js.map": "/physik_rechner_frontend/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04179b6f.css",
-    "static/js/main.77d35cb1.js"
+    "static/js/main.c1b084d7.js"
   ]
 }
